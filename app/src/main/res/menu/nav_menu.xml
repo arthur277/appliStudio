@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_main"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:contentDescription="@string/home_navigation" />
+    <item
+        android:id="@+id/nav_second"
+        android:title="Books"
+        android:icon="@drawable/ic_books"
+        android:contentDescription="@string/books_navigation" />
+    <item
+        android:id="@+id/nav_easter_egg"
+        android:title="Easter Egg"
+        android:icon="@drawable/ic_egg"
+        android:contentDescription="@string/easter_egg_navigation" />
+</menu>

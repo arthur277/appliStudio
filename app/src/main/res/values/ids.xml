@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+    <item name="tvBookTitle" type="id" />
+    <item name="tvBookAuthor" type="id" />
+    <item name="tvBookGenre" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="content_frame" type="id" />
+    <item name="button_navigate" type="id" />
+    <item name="nav_view" type="id" />
+</resources>

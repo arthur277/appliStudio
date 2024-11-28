@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!-- res/menu/drawer_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_main"
+        android:contentDescription="@string/home_navigation"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_second"
+        android:contentDescription="@string/books_navigation"
+        android:icon="@drawable/ic_books"
+        android:title="Books" />
+    <item
+        android:id="@+id/nav_easter_egg"
+        android:contentDescription="@string/easter_egg_navigation"
+        android:icon="@drawable/ic_egg"
+        android:title="Easter Egg" />
+</menu>
